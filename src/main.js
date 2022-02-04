@@ -7,3 +7,7 @@ function bulb_off() {
 function change_me() {
     document.getElementById("change_p").innerHTML = "i am changed";
 }
+
+{
+    console.log("i am a block");
+}
